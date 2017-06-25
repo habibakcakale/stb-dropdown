@@ -1,0 +1,23 @@
+{
+  "name": "stb-dropdown",
+  "version": "1.0.0",
+  "description": "stb dropdown based https://github.com/shootthebit/stb-dropdown",
+  "main": "stb.dropdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habibakcakale/stb-dropdown.git"
+  },
+  "keywords": [
+    "jquery",
+    "dropdown"
+  ],
+  "author": "Habib Akçakale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habibakcakale/stb-dropdown/issues"
+  },
+  "homepage": "https://github.com/habibakcakale/stb-dropdown#readme"
+}

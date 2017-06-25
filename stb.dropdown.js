@@ -5,7 +5,7 @@
 ;
 (function ($) {
     //Generated HTML
-    var $container = $('<div class="stb-select-container"><span class="selected"></span></div>');
+    var $container = $('<div class="stb-select-container" tabindex="0"><span class="selected"></span></div>');
     var $list = $('<ul class="stb-select" style="display:none;"></ul>');
     //Object Instance
     $.fn.stbDropdown = function (options) {
